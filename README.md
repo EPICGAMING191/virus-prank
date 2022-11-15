@@ -1,3 +1,6 @@
 # virus-prank
-HOW TO RUN- 
--Run gametest.bat
+Made by Phoenix Gaming
+-
+
+HOW TO RUN
+-Run start.bat
